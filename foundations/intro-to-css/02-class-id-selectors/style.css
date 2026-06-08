@@ -3,3 +3,8 @@
     background-color: rgb(240, 142, 142);
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
+
+#id1 {
+    color: blue;
+    font-size: 36px;
+}
