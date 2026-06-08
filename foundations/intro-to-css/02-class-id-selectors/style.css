@@ -1,1 +1,5 @@
 /* Add CSS Styling */
+.class1 {
+    background-color: rgb(240, 142, 142);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
